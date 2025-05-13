@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Robert</title>
+      <respStmt xml:id="resp1">
+               <resp>Encoding</resp>
+               <persName>Juliette Janès</persName>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>Corpus et Outils pour les langues de France - COLaF</publisher>
+      <date>2025-05-13</date>
+      <availability>
+        <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY</licence>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+      <title>Robert</title>
+        <author>Robert</author>
+        <date>2025</date>
+        <publisher>Université de Genève</publisher>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <revisionDesc>
+  <change when="2025-05-13" who="#resp1">Génération du XML</change>
+  </revisionDesc>
+</teiHeader>
+  <text>
+    <body>
+      <div>
+        <ab><pb n="1" facs="f_1.jpg"/><lb n="1"/>Dela Bibliothẽ. de Charles Adrien Picard 1742</ab>
+      </div>
+      <div>
+        <head><lb n="1"/>Prologue du preſent liure par maiſtre robert<lb n="2"/>freſcher bachelier forme en theologie tranſlateur.</head>
+        <p><lb n="1"/>Beroſe ainſi que iozephe nous a laiſſe par eſcript<lb n="2"/>fut natif de la cite de babilone il eſtoit pbr̃e coronique.ͬ<lb n="3"/>et notaire public car pour lors loffice des pbrẽs eſtoit<lb n="4"/>de rediger par eſcript le temps que les roys regnoyent<lb n="5"/>ensemble leurs geſtes et beaulx faitz comine recite<lb n="6"/>metaſtenes au liure des iugemens des temps. Et a<lb n="7"/>ceſte cauſe fiſt ung extrait des fleurs des yſtoires<lb n="8"/>caldaiques en laquelle il a obſerue le temps et anti¬<lb n="9"/>quites depuis le deluge qui fut du temps de noe ꝑ<lb n="10"/>eſcript son hyſtoire pendent la monarchie dalixãdre<lb n="11"/>le grant qui eſtoit deuant lincarnation enuiron<lb n="12"/>iii.ͨ ans. Et de la creation du monde iiii.ͫ uiii.ͨ lix<lb n="13"/>en langue grecque fut treſexpert regent en philozophie<lb n="14"/>en luniuerſite dathenes du quel comme dit pline les<lb n="15"/>atheniens auoyent telle extime quilz firent faire a ſõ<lb n="16"/>honneur ung ymaige ayant la langue doree qui fut<lb n="17"/>colloque en vne des eſcolles publicque ou il faiſoit<lb n="18"/>les lectures il a compoſe vng petit volume diuiſe<lb n="19"/>en cinq liures. Au premier duquel recite ce que ont<lb n="20"/>eſcript les caldaicques du temps depuis adam iuſqẽ<lb n="21"/>au deluge. Au ſecond de la genealogie des premiers<lb n="22"/>roys princes et ſeigneurs qui premieremẽt regnerent<lb n="23"/>apres le deluge. au iii ͤ de lantiquite de noe et com<lb n="24"/>ment Il fut nomme ianus dont eſt nõe ianuarius<lb n="25"/>le mois de iãuier. au iiii.ͤ des antiquites des</p>
+        <fw type="stamp"/>
+        <ab><pb n="2" facs="f_2.jpg"/><lb n="1"/>royaumes de toute la terre en general. Au cinquieſ.ͤ<lb n="2"/>dun chaſcun royaume en particulier. A ceſte cauſe<lb n="3"/>ſire dautant quil na point obmis a parler du<lb n="4"/>royaume de france comme vous pourres ouẏr<lb n="5"/>par lectre de ce pñt liure en pourſuiuant ce que<lb n="6"/>ledit beroſe et depuis luy maintes en ont eſcript<lb n="7"/>iuſques a francus dont ſont ditz les francoys ien<lb n="8"/>ay fait vng extrait en adiouſtant ce q̃ tholomee<lb n="9"/>pline dydore Iosephe et autres pluſieurs ont eſcript<lb n="10"/>sur ceſte matiere ce que iay fait affin que plus<lb n="11"/>facillement par aide de teſmoins on adiouſte foẏ<lb n="12"/>a ce quilz en ont eſcript. Et ainſi que vr̃e treſilluſtre<lb n="13"/>et diuin eſcript eſt touſiours doulz et begnin a<lb n="14"/>receuoir le labeur tant ſoit de petite extime de voz<lb n="15"/>treshumbles ſubgectz et moindres ſeruiteurs. Il<lb n="16"/>vous plaira ſire auoir leuure aggreable. Car ie<lb n="17"/>ne lay fait ſinõ affin que vr̃e treſdiuin ẽtendem̃t<lb n="18"/>y preigne quelque foy recreation comme bien voꝰ<lb n="19"/>en ſuyuez en lectures de geſtes enciens des treſmana¬<lb n="20"/>nimes empereurs roys et princes qui deuant vous<lb n="21"/>ont regne. Et neuſſe voulu mettre la main aleuure<lb n="22"/>ſinõ que euidentement par diuers acteurs dignes<lb n="23"/>de foẏ iaẏ congneu la choſe qui dedans eſt recitee<lb n="24"/>eſtre veritable. Et croy que apres moyſe qui a eſcript<lb n="25"/>les premiers liures de noſtre ſaincte eſcripture nya<lb n="26"/>eu hyſtoriagraphe qui ſoit plus approuche de la<lb n="27"/>verite et auſſi que peu de gens qui ont veu la cro<lb n="28"/>nnique auecques lexpoſiteur dicelle a grant peine<lb n="29"/>vouldroyent dire au contraire. Et a tant feray fin<lb n="30"/>au prologue pour venir a la proſecution de leuure</ab>
+        <ab>
+          <pb n="3" facs="f_3.jpg"/>
+        </ab>
+      </div>
+      <div>
+        <head><lb n="1"/>Du temps depuis adam iuſques a noe</head>
+        <p><lb n="1"/>Ante aquarum cladem famoſam qua vniu̾ſus<lb n="2"/>periit orbis multa preterierunt ſecula que a noĩs<lb n="3"/>caldeis fideliter fuerunt ſeruata. Or dit doncq̃s<lb n="4"/>beroſe que deuant le deluge eſtoyent pluſieurs<lb n="5"/>ans paſſes lesquelz ont fidelement obſeruez et<lb n="6"/>redige par eſcript les hyſtoriographes caldaicq̃s<lb n="7"/>Car ainſi que recite filo en son breuiaire du<lb n="8"/>temps depuis adam iuſques au deluge ſont cõptez<lb n="9"/>M vi.ͨ lṽi ans. En la premiere ſepmaine du<lb n="10"/>premier an comme eſcript moyſe au p̾mier chap¬<lb n="11"/>pitre de geneſe fut cree adam qui engendra pluẜ ͬ ᷤ<lb n="12"/>enfans entre les autres au C et xxx.ͤ an de ſon<lb n="13"/>eage engendra vng nomme ſeth dont deſcendit<lb n="14"/>noe duquel ſont descendus tous les hommes<lb n="15"/>de pñt comme ſenſuit. Adam. Seth Enos<lb n="16"/>Caynam. Malaleel. Iareth. E noe. Mathusalẽ<lb n="17"/>Lameth. Noe.</p>
+        <p><lb n="1"/>Depuis adam ſont deſcendus les deſſusditz<lb n="2"/>de pere en filz.</p>
+        <p><lb n="1"/>Noe en la creation du monde M v.ͨ  lviii ans<lb n="2"/>qui fut deuant le deluge iiii ͯ ͯ xviii ans engẽ<lb n="3"/>dra de ſa femme nõmee tydea. Sem Iaphet.<lb n="4"/>et cam. et trois filles nõmees pendora noella<lb n="5"/>noegla qui ſont huit ꝑſongnages eſquelz fut<lb n="6"/>le genre humain conſerue de la lignee de iaphet</p>
+      </div>
+      <div>
+        <head><lb n="1"/>ſecond chappitre. Tranſlateur</head>
+        <p><lb n="1"/>Ie laiſſe a parler des enfans leſquelz noe ẽgendra<lb n="2"/>apres le deluge ſemblablement auſſi des lignees</p>
+        <ab><pb n="4" facs="f_4.jpg"/><lb n="1"/>de ſem et cam et deduire la lignee de iaphet ſecond<lb n="2"/>filz de noe car ceſt deluy que viendront les p̾miers<lb n="3"/>qui habiterent le pays de france comme ſera eſcript<lb n="4"/>cy apres.</ab>
+        <p><lb n="1"/>Iaphet eut huit enfans qui ſenſuiuent<lb n="2"/>Comerus gallus medus magogus. ſamothes<lb n="3"/>autrement nomme dys Tubal et Iubal moſeus<lb n="4"/>Tiras Ion.</p>
+        <p><lb n="1"/>Des huit enfans de iaphet ie veulx ſeullement en<lb n="2"/>ſuiure la lignee du iiii.ͤ nomme Samothes duquel<lb n="3"/>beroſe en ſon cinquieſme liure parle en telle maniere<lb n="4"/>Samothes en lan Cent quarente apres le deluge<lb n="5"/>fut le premier qui fonda et edifia les villes au pays<lb n="6"/>lequel depuis a eſte nomme france cõe ya dit cy apres<lb n="7"/>De ſon temps ne fut trouue homine plus ſaige et<lb n="8"/>delur ceulx qui depuis furent nõmez francoys eſtoiẽt<lb n="9"/>appeles ſamothes. Les theologiens et grans philoſophes<lb n="10"/>qui ia eſtoyent deſcendus de ſon grant pere noe et de<lb n="11"/>son pere iaphet et de ſes oncles ſem et cain et autres<lb n="12"/>que engendra noe apres le deluge auoyent led̶ ſa¬<lb n="13"/>mothes a merueilleuse reuerance. dyogenes laercius<lb n="14"/>lequel a escript la vie des phillozophes qui ia eſtoyẽt<lb n="15"/>deſcendus dit au commancement de ſon liure dit<lb n="16"/>que philozophie print ſon commancement des ꝑſes<lb n="17"/>leſquelz auoyent tiltres de philozophes appellees<lb n="18"/>mages des babiloniens et aſſiriens ou furent appellez<lb n="19"/>caldaicques et des celtes qui ſont ausourduy nõmes<lb n="20"/>francois qui ſe nõmoyent ſamothes leſquelz ſamothes<lb n="21"/>ainſi que teſmoigne ariſtote en ſa magicque et s<lb n="22"/>cecio au xxiii.ͤ liure des ſuſceſſions furent tres ſauãs</p>
+        <ab>
+          <pb n="5" facs="f_5.jpg"/>
+        </ab>
+        <ab><lb n="1"/>en droit diuin et humam Et a ceſte cauſe trſadonnez<lb n="2"/>a Religion. Et quelque choſe que veulle dire dyogenes<lb n="3"/>qui recite que philozophie fut premierement trouuee<lb n="4"/>en grece ceſt erreur tout manifeſte car ainſi que dit<lb n="5"/>cezar au vi.ͤ liure de ſes cõmentaires toutes les<lb n="6"/>gaulles ont eu les ſciences et ſauoir des. Samothes<lb n="7"/>ainsi que dyent les grecz les auoyent des ſamothes<lb n="8"/>Car deuant le temps de cadmus quilz dyent ĩuẽte.ͬ<lb n="9"/>des lectres elles auoyent eſte en france vſitees ẽſemble<lb n="10"/>auſſi les mectres et vers poetiques philozophie theo<lb n="11"/>logie et les loix ainſi appart que quelque choſe que<lb n="12"/>veullent dire pluſieurs hiſtoriographes que le p̾mier<lb n="13"/>Roy de france fut filz du ſecond filz de noe qui premier<lb n="14"/>diſtribua les ſciences en france et pluſieurs autres<lb n="15"/>regions. Par quoy les grecz ſont faulx et mẽſõgiers<lb n="16"/>qui se veullent atribuer tel honne.ͬ Car longue<lb n="17"/>eſpace de temps deuant que aucune ſcience ne lictera<lb n="18"/>ture floriſt en grece les francois allemans espaignoulz<lb n="19"/>et autres nations les auoyent comme familieres<lb n="20"/>Ceſtuy ſamothes premier roy de france euſt telle<lb n="21"/>poſterite et lignee.</ab>
+        <p><lb n="1"/>Samothes engendra galathea. galathes magus<lb n="2"/>ſarron. Nannes dryudes bardus longo bardus ii ͤ<lb n="3"/>de ce nom. Seltes</p>
+      </div>
+      <div>
+        <head><lb n="1"/>Du ii ͤ Roy ͤdes Seltes que nous appellons<lb n="2"/>francoys nomme magus chappitre iii ͤ</head>
+        <p><lb n="1"/>Magus premier filz de ſamothes regna apres ſõ</p>
+      </div>
+      <div>
+        <head><lb n="1"/>pere.<lb n="2"/>Tranſlateur</head>
+        <p><pb n="6" facs="f_6.jpg"/><lb n="1"/>Il eſt a noter que ce nom ycy magus eſt vng tm̃e<lb n="2"/>ou vocable. Stithien qui vault autant a dire<lb n="3"/>comme edificateur ou batiſſeur de maiſons<lb n="4"/>car les francois vſerent adoncques de ceste lan¬<lb n="5"/>que bien vray eſt que les perſes disent ce nom<lb n="6"/>magus ſignifier philozophe mais en ce temps<lb n="7"/>la langue des perſes neſtoit encore en vſaige<lb n="8"/>Beroſe dit que ceſtuy cy fut le premier qui edifia<lb n="9"/>pluſieurs villes et actes . Car comme teſmoigne<lb n="10"/>tholomee fut par luy edifiee en acquitaine vne<lb n="11"/>cite de luy nominee nomomagus en la gaulle<lb n="12"/>lyonnoiſe neomagus rothomagus et nyoma¬<lb n="13"/>qus en la france belgicque vng autre rothoma<lb n="14"/>gus qui eſt la cite principale de normendie<lb n="15"/>nommee Rouen et autre nõmee neomagus<lb n="16"/>Berbethomagus en la gaulle de nerbonne<lb n="17"/>edifia deux cites. vindomagus et neomagus<lb n="18"/>Et uilles ceſar en ſes commentaires a nõme<lb n="19"/>en france iuliomagus et teſaromagus . Car<lb n="20"/>toutes cites de ce nom magus eſtoyent appellees<lb n="21"/>magez ie me de porte de dire quelles cites ce ſont<lb n="22"/>dautant que aucunes depuis le temps de tholo¬<lb n="23"/>mee ont eſtes deſtruictes et les autres ont chãge<lb n="24"/>leur nom. Touteſfois il eſt euident q̃ rothoma¬<lb n="25"/>gus eſt rouen en normendie.</p>
+      </div>
+      <div>
+        <head><lb n="1"/>De ſarron ii.ͤ filz de ſamothes troiſieſme<lb n="2"/>Roy des celtes ou francoys chiiii ͤ</head>
+        <p><lb n="1"/>Sarron regna apres ſon frẽ magus qui<lb n="2"/>fut la pñt qui par auſter aux hoẽs les mauuaiz</p>
+        <ab>
+          <pb n="7" facs="f_7.jpg"/>
+        </ab>
+        <ab><lb n="1"/>exteraces fiſt les eſcolles publicques que nous<lb n="2"/>diſons vniuersites. Et de luy furent les ſamothes<lb n="3"/>au Iourduy francoys appelles. Saronides aĩſi<lb n="4"/>que dit diodore en son vi.ͤ liure il ya dist il en<lb n="5"/>la france celticque pluſieurs theologiens et phi¬<lb n="6"/>loz ophes qui ſappellent zaronides qui ſont gens<lb n="7"/>de grant eſtime entre les hoẽs et ont telle couſtuẽ<lb n="8"/>que iamais ilz ne font ſacriffice que quelque<lb n="9"/>grant philozophe ne ſoit leur principal directe.ͬ<lb n="10"/>car ilz ont eſtime que les ſaiges ont participatiõ<lb n="11"/>auecques la nature diuine et que par eulx ſe<lb n="12"/>doiuent faire les ſacrifices et que len ne doit riẽs<lb n="13"/>demander aux dieux ſinon par linterceſſiõ diceulx<lb n="14"/>et que en paix et guerre on doit vſer de le.ͬ ꝯseil<lb n="15"/>Bien est vray que deuant ceſtuy ſarron les ſa<lb n="16"/>mothes eſtoyent theologiens et philozophes<lb n="17"/>mais ilz nauoyent encores aucunes eſcolles<lb n="18"/>publicques.</ab>
+      </div>
+      <div>
+        <head><lb n="1"/>Du iiii.ͤ roy de celtes ou francois nomme<lb n="2"/>dryus v.ͤ chappitre.</head>
+        <p><lb n="1"/>Dryus iiii.ͤ Roy de france fut homme de<lb n="2"/>treſgrant et merueilleux ſauoir. Ceſar en ſon<lb n="3"/>ſix.ͤ des commentaires et diodore en ſon ſix.ͤ<lb n="4"/>liure des celtes diſent ilz qui ſont les francoys<lb n="5"/>vsent de diminutions dangures et sacrifices<lb n="6"/>par leſquelles prediſoyent les choſes futures de<lb n="7"/>ceulx Icy parle lucan et pline en la fin du<lb n="8"/>xvi.ͤ liure de ſuetone de ceulx cy parle lucan<lb n="9"/>et pline en la fin en la uie de claude cezar Ce</p>
+        <ab><pb n="8" facs="f_8.jpg"/><lb n="1"/>ſont ceulx de dreux et des enuirons en normẽdie</ab>
+      </div>
+      <div>
+        <head><lb n="1"/>De baldus v.ͤ Roy des celtes chappitre vi ͤ</head>
+        <p><lb n="1"/>Bardus fut treſexcellant en Inuention de ꝯposer<lb n="2"/>vers et chancons de muſicque ainſi que dit beroze<lb n="3"/>de ceſtuy vint vne ſecte nõmee la ſecte bardre que<lb n="4"/>comme alaiſſe par eſcript diodore en ſon vi.ͤ liure<lb n="5"/>il ya diſt il en gaulle celtiques poetes inuenteurs<lb n="6"/>de toute doulceur de muſique quon appelle bardes<lb n="7"/>et chantent auecques les orgres ne plus ne mains<lb n="8"/>que les autres nations auecques la herpe diſans<lb n="9"/>louenges des vngs et vitupere des autres et ſont de<lb n="10"/>ſi grande eſtime en guerre quilz nont pas ſi toſt<lb n="11"/>veu leurs ennemis quilz ſont vaincus et pource<lb n="12"/>ſauue lonneur des grecz et ne leur deſplaiſe car ilz<lb n="13"/>ont eu les ſciences des francoys quilz ont reputes<lb n="14"/>barbares qui ont premier trouue les ars et ſciences<lb n="15"/>que nont les grecz</p>
+      </div>
+      <div>
+        <head><lb n="1"/>De longho vi.ͤ loy des celtes</head>
+        <p><lb n="1"/>Longho fut le premier duquel ſont nommes<lb n="2"/>ceulx de langres lesquelz de ce nom eſtoyent ditz<lb n="3"/>longones en terme latin et maintenant lingones<lb n="4"/>comme recite ptholomee et autres triographes<lb n="5"/>Ce nom ycy longho vault autant adire cõe prince<lb n="6"/>conſeruant et de grant prudence a garder ce quil<lb n="7"/>auoit conquis</p>
+      </div>
+      <div>
+        <head><lb n="1"/>De bardus vii ͤ roy des celtes</head>
+        <ab/>
+        <ab/>
+        <ab>
+          <pb n="9" facs="f_9.jpg"/>
+        </ab>
+        <p><lb n="1"/>Bardus le ieune et ſecond de ce nom Regna apres<lb n="2"/>longho de luy neſt trouue choſe digne de memoire</p>
+      </div>
+      <div>
+        <head><lb n="1"/>De lucus viii.ͤ Roy de celtes</head>
+        <p><lb n="1"/>Lucus eſt celluy dont ſont nommes au pres de<lb n="2"/>paris luſarche comme le teſmoigne ptholomee en<lb n="3"/>ſa coſmagraphie.</p>
+      </div>
+      <div>
+        <head><lb n="1"/>De celtes ix.ͤ Roy des celtes ou francois</head>
+        <p><lb n="1"/>Celte est celuy dont eſt nomme la gaulle Celtique<lb n="2"/>qui fut la premiere terre hĩtee en france ce nom<lb n="3"/>de celtes leur a dure iusques a francois xxii.ͤ Roy<lb n="4"/>dont fut le pays nomme france et les hommes<lb n="5"/>francois qui en portent le nom par excellance es<lb n="6"/>gaulles ſubgete au roy de france en ſorte que toutes<lb n="7"/>les terres de ſon Royaume comme acquitaine et la<lb n="8"/>gaulle belgicque et autres terres voismes ſont ap¬<lb n="9"/>pellees france et les hĩtans dicelle francois. Et le roy<lb n="10"/>de france prent ſon nom de celle Region dautant<lb n="11"/>que apres le deluge fut la premiere habitee Et quil<lb n="12"/>ſoit ainsi lexperience nous le monſtre a loeil et a<lb n="13"/>vnchaſcun viuant de ce temps qui vouldroit ſau̾<lb n="14"/>letymologie de ce nom celtes liſe viterbience cõmẽtate ͬ<lb n="15"/>de beroſe surce paſſaige en ſon cinq.ͤ liure ſur le tex¬<lb n="16"/>te apud celtas celte aquo ⁊c̃.</p>
+      </div>
+      <div>
+        <head><lb n="1"/>De galathes x.ͤ Roy de celtes</head>
+        <p><lb n="1"/>Galathes fut filz de hercules degipte aniſi que dit</p>
+        <p><pb n="10" facs="f_10.jpg"/><lb n="1"/>beroſe car apres que hercules eut ſurmonte les tyrãs<lb n="2"/>en eſpaigne il voulut aller en ytallye et print ſon<lb n="3"/>chemin par les gaulles ou en paſſant par les gaulles<lb n="4"/>vint veoir le roy deſſuſd̶ Celtes et dune ſienne<lb n="5"/>fille nõmee galathea leur engendra ceſtuy galathes<lb n="6"/>dont vint que les celtes furent premierement nõmes<lb n="7"/>galles ou gallois. Et que ainſi ſoit apres beroſe<lb n="8"/>diodore en son six.ͤ nous a laiſe par eſcript ce qui<lb n="9"/>enſuit. Le temps paſſe y euſt ung treſnoble<lb n="10"/>prince qui regnoit aux parties celtiques ou fran¬<lb n="11"/>coiſes lequel auoit vne fille exedente la cõmune<lb n="12"/>nature en grandeur et beaulte et elegance de corps<lb n="13"/>treſexcellante en vertu force et couraige. A ceſte<lb n="14"/>cauſe depriſoit tous les hommes qui la vouloyent<lb n="15"/>auoir pour femme et neſtimoit homme ſouffiſãt<lb n="16"/>ne digne de lauoir en mariage. Le temps pendãt<lb n="17"/>hercules a ſon retour deſpaigne ou long tep̃s auoit<lb n="18"/>eſte et ediffie la cite nõmee alexia apres la victoire<lb n="19"/>obtenue contre berion. Ceſte fille du roy galathea<lb n="20"/>voyant par admonition les grandes vertus de<lb n="21"/>hercules la beaulte et grandeur de ſon corps fut<lb n="22"/>de luy amoureuſe et de conſentement de pere et de<lb n="23"/>mere euſt la fruiction de ſon amour . Et de luy<lb n="24"/>conteupt vng filz nõme galathes lequel entre toꝰ<lb n="25"/>ceulx de ſon temps en vertuz et puiſſance de corps<lb n="26"/>eut le nom le bruit et la renommee par ſes gran¬<lb n="27"/>des vertuz et puiſſance luy venu en eage dhõme<lb n="28"/>et ſucceſſeur du royaume apres celtes pere de gala¬<lb n="29"/>thea sa mere par ſes geſtes et vertuz conquiſt pluẜ ͬ ᷤ<lb n="30"/>terres et ſeigneuries et augmenta ſon royaume<lb n="31"/>Et quant il ſe uit en gloire et puiſſance et eſtre</p>
+        <ab>
+          <pb n="11" facs="f_11.jpg"/>
+        </ab>
+        <ab><lb n="1"/>bien obey de ſes ſubgetz il voulut et decreta que de<lb n="2"/>ſon nom feuſt nomme tout ſon peuple Et furẽt<lb n="3"/>ditz galathes et toute la region gallicanne euſt<lb n="4"/>ce nom et tout le pays. Et ſont les parolles de<lb n="5"/>diodore dont il appert que du temps de hercules<lb n="6"/>ceſte region galicanne euſt ce nom qui depius<lb n="7"/>par ſuſtraction de leurs a eſte dicte gallia en memoi¬<lb n="8"/>re de ce Roy galathes filz de hercules. Auecques ce<lb n="9"/>que nous auons deſſus allegue comme ſolinus qui<lb n="10"/>eſt acteur comoſgraphe de grant eſtime lequel dit<lb n="11"/>que les galathes du pays daſie leſquelz eſcript ſainct<lb n="12"/>paol ad galathas ont eu leur origine des galles q̃<lb n="13"/>nous diſons francois. Hercules en ce meſmes teps̃<lb n="14"/>edifia en bourgongne vne cite nomme en langue<lb n="15"/>latine au Iour duy alſeta qui neſt pas loing dauthũ<lb n="16"/>Oultre plus recite diodore que les galathes a com¬<lb n="17"/>paignes de pluſieurs autres leurs vvoiſins vindret̃<lb n="18"/>en grece occuper le pays daſye ou fonderent et dõne¬<lb n="19"/>rent premierement le nom aux gallathes. ausquelz<lb n="20"/>ſainct paol a dirige et eſcript plusieurs epitres. Et<lb n="21"/>furent appellez ainſi que iosephe et ſolinus raconte<lb n="22"/>et tesmoignent ceulx qui firent la conqueſte des<lb n="23"/>grecz gallatoys sunt gallogreci. A ceste cauſe veult<lb n="24"/>inſerer que dautant que luſaige des lettres eſtoit<lb n="25"/>entre les galloẏs comme eſt deſſuſd̶ La raison eſt<lb n="26"/>euidente a ce que dyent ceulx de meonie qͥlz auoyẽt<lb n="27"/>premierement les lectres des francois. et que les<lb n="28"/>grecz les eurent deulx et non pas de cadmus quilz<lb n="29"/>dient auoir eſte celluẏ qui premier les apporta<lb n="30"/>des phenicrons aux grecz comme ilz ont faulcemt̃<lb n="31"/>de leur couſtume meſcongneu. Ad ce propos auſſi</ab>
+        <ab><pb n="12" facs="f_12.jpg"/><lb n="1"/>ſert ce que manethon racompte que ala fin du regne<lb n="2"/>de ilus Roy de troye galathes ſecond de ce nom ſur<lb n="3"/>monta les ſamothes et tanydicques et fonda pluẜ ͬS<lb n="4"/>villes es gallathes par quoy nous eſt euidente pro¬<lb n="5"/>bation que la puiſſance des galles perſeuera et con¬<lb n="6"/>tinua longuement en aſẏe. Et pour ceſte cause appa¬<lb n="7"/>roiſt que les ars ſciences et lettres ont eu origine<lb n="8"/>des francois ce que les grecz ſe ſont faulcement<lb n="9"/>atribues ce loz ce que iamais ne fut trouue en librai¬<lb n="10"/>rie ne ſuffisant acteur auſſi que leur reprouche ioze¬<lb n="11"/>phus en ſon liure contre la grammaire appion. Et<lb n="12"/>pour faire fin en ceſte matiere diodore dificille dit po ͬ<lb n="13"/>la verite que les rommains appellent les gallathes<lb n="14"/>ceulx que les autres nomment les celtes qui ſont les<lb n="15"/>francors. ainsi appart comie les francois quilz<lb n="16"/>furent premierement nõmez ſamothes de leur p̾mier<lb n="17"/>Roy muerent leur nom par pluſieurs foys. Car de<lb n="18"/>ſamothes apres furent appelles celtes de leur Roy<lb n="19"/>celthe. Apres furent appelles ou nõmes galathes<lb n="20"/>et leur regne augmente de gaulle belgicque par<lb n="21"/>vng nomine belgius. Et comme nous verrons<lb n="22"/>furent appelles galles belgicques les rommains le ͬ<lb n="23"/>ont touſiours donne ce nõ galli qui ſont galles<lb n="24"/>Et eſt celuy qui entre les hyſtoriens eſt plus vſite<lb n="25"/>finablement comme nous verrons a la fin de ce<lb n="26"/>liure furent appelles francois qui eſt le terme plꝰ<lb n="27"/>cõmun de pardeca en nr̃e langue vulgaire. Par<lb n="28"/>ainſi il appart que galathes filz de hercules donna<lb n="29"/>ce nom gaulles au pays et aux homines de france<lb n="30"/>Le quel galathes du temps de altades xii.ͤ  Roẏ<lb n="31"/>de babilloyne.</ab>
+        <ab>
+          <pb n="13" facs="f_13.jpg"/>
+        </ab>
+      </div>
+      <div>
+        <head><lb n="1"/>De harbon xi.ͤ Roẏ de celtes</head>
+        <p><lb n="1"/>Harbon en muant .h. en .n. eſt narbon et de luẏ<lb n="2"/>fuc dit le paẏs de narbonne il eſtoit filz de galathes<lb n="3"/>de ceſte galle de narbonne par lepline en ſon iii ͤ<lb n="4"/>liure de liſtoire naturelle. La prouince dit que de<lb n="5"/>narbonne eſt vne partie des gaulles et eſt au de<lb n="6"/>ſoubz de lamer deſpaigne et ſe nominoit galia<lb n="7"/>broceata diuiſee de itallie par la riuiere nommee<lb n="8"/>en latin varus il ya homme deſperit fertilite de t̾re<lb n="9"/>multitude de richeſſes par quoy ne ſcay prouince<lb n="10"/>digne deſtre preferee au pays dytalie ſinõ ceſte cy</p>
+      </div>
+      <div>
+        <head><lb n="1"/>De lugdus xii.ͤ Roy de celtes.</head>
+        <p><lb n="1"/>Lugdus eſt celluy dont la prouince prent ſon<lb n="2"/>nom comme recite beroſe et ainſi q̃ le nõ laccuſe<lb n="3"/>dit maiſtre iehan de viterbe cõmentate.ͬ dud̶ beroſe<lb n="4"/>ceſt celuy dont eſt nõme lugdiniũ qui eſt lyon en<lb n="5"/>la gaulle lugdunẽse ou lionnoiſe on appelle de ceſtuy<lb n="6"/>lugdus les hommes ludouici et nõ obstãt g. demeure<lb n="7"/>ludouici q̃ nous diſons en francoys loys</p>
+      </div>
+      <div>
+        <head><lb n="1"/>De belgius xiii.ͤ Roy de celtes.</head>
+        <p><lb n="1"/>Belgius comme dit beroſe est celuy dont eſt dicte<lb n="2"/>la gaulle belgieque qui commance depuẏs le paẏs<lb n="3"/>ou paſſe la riuiere de cene et marne du coſte de sep<lb n="4"/>tentrion iuſques au fleuue de rouen et vne partie<lb n="5"/>vers orient du coſte doccident finiſt a la mer octeane<lb n="6"/>qui eſt la mer de bretaigne.</p>
+      </div>
+      <div>
+        <head><pb n="14" facs="f_14.jpg"/><lb n="1"/>Du Roy allobrox xiiii.ͤ Roy de celtes ou francois</head>
+        <p><lb n="1"/>Allobrox ainſi que dit viterbrouce quaſi alle¬<lb n="2"/>droys qui eſt adire meridionnale mixtion car<lb n="3"/>drox ou daros eſt le uent de mydy que les hebrai¬<lb n="4"/>ques dyent daros et hallo eſt adire mixtion a<lb n="5"/>ce conſentent ſainct iheroſme et les talmudiſtes<lb n="6"/>et de ces deux dictions vient allodarox ou allo¬<lb n="7"/>drox qui depuis a eſte dit allobrox qui eſt ĩter¬<lb n="8"/>prete cõmixtion ſont ditz les allobroges qui ont<lb n="9"/>pluẜ ͬ ᷤcites treſanciennes comme dyent ptholome<lb n="10"/>et autres coſmographes entre leſquelz est viẽne<lb n="11"/>geneue et auignon meridyonale il neſt adou¬<lb n="12"/>ter q̃ de ce roy allobrox.</p>
+      </div>
+      <div>
+        <head><lb n="1"/>Translateur</head>
+        <p><lb n="1"/>Icy finiſt beroſe qui a eſcript ceulx qͥ regnerent<lb n="2"/>en diu̾ſes parties de la terre apres le deluge iuſqs̃<lb n="3"/>a ſon temps</p>
+        <p><lb n="1"/>Maneton cõmance ou beroſe afiny et ꝯtient<lb n="2"/>iuſques a ſon temps duquel regna francus dõt<lb n="3"/>ſont ditz les francois cõe len verra cy apres.</p>
+      </div>
+      <div>
+        <head><lb n="1"/>Du xv.ͤ Roy des celtes ou francois nõe Romus</head>
+        <p><lb n="1"/>Romus eſt celluy dit manethon dont ſont ditz<lb n="2"/>romandi ptholomee dit q̃ en sa gaulle belgicq̃<lb n="3"/>ya les romandiſſes ſur le fleuue de roſne au de<lb n="4"/>ſoubz de vienne romonũ et roma qui depuis a<lb n="5"/>eſte nõmee ꝑ interpretaᵒ.ᷠ ualence.</p>
+        <ab/>
+        <ab>
+          <pb n="15" facs="f_15.jpg"/>
+        </ab>
+      </div>
+      <div>
+        <head><lb n="1"/>Du xvi.ͤ Roy de celtes ou francois nõe paris</head>
+        <p><lb n="1"/>Paris fut celluy dont eſt dicte la cite de paris<lb n="2"/>qui par auant auoit nom lutocia qui de nr̃ẽ<lb n="3"/>temps eſt treſſouueraine vniu̾se du mõde en<lb n="4"/>la quelle fut docteur regent ſainct thomas daquĩ<lb n="5"/>ptholomee en ſa geographie et aut̾s pluẜ.ͬ ᷤ</p>
+      </div>
+      <div>
+        <head><lb n="1"/>du xvii.ͤ Roy de celtes nõe le mãnus.</head>
+        <p><lb n="1"/>Le mãnus fut celuy dont sont ditz le main<lb n="2"/>dont eſt le lac que nous appellõs Luſanne</p>
+      </div>
+      <div>
+        <head><lb n="1"/>du xviii.ͤ Roy de frãce nomme olbius</head>
+        <p><lb n="1"/>Olbius dit manetõ Regna apres le Roy mãmus<lb n="2"/>et de luy neſt trouue choſe digne de memoire.</p>
+      </div>
+      <div>
+        <head><lb n="1"/>du xix.ͤ Roy de celtes ou frãcois nõe galathas<lb n="2"/>ſecond de ce nom.</head>
+        <p><lb n="1"/>Gallatas deux.ͤ de ce nom fut celluy qui ſurmõ<lb n="2"/>ta les ſamothes en aſye et edifia pluſieurs villes<lb n="3"/>en france en lhonneur de ſon pere olbius et es<lb n="4"/>autres regions par luẏ ſubjuguees comme en<lb n="5"/>ſamothe aſie et Cilicie ainſi que ptholome et<lb n="6"/>autres geographes nõment pluſieurs cites<lb n="7"/>olbiances de ce nom olbius. ⁊c̃.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
