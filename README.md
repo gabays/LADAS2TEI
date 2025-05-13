@@ -4,23 +4,23 @@ This Python script transforms XML ALTO files, using [LaDaS layout analysis descr
 
 ## Install
 
-```console
+```bash
 git clone https://github.com/gabays/LADAS2TEI.git
 cd LADAS2TEI
 virtualenv -p python3.9 env #or later
 source env/bin/activate
 pip install -r requirements.txt
-```
+``
 
 ## Run the program
 
 To run the program:
-```console
+```bash
 python ladas2tei.py [csv_file].csv
 ```
 
 To run the example:
-```console
+```bash
 python ladas2tei.py  corpus/metadata.csv
 ```
 
