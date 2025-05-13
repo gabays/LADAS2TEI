@@ -2,6 +2,16 @@
 
 This Python script transforms XML ALTO files, using [LaDaS layout analysis descriptions](https://github.com/DEFI-COLaF/LADaS), into TEI files.
 
+## Install
+
+```console
+git clone https://github.com/gabays/LADAS2TEI.git
+cd LADAS2TEI
+virtualenv -p python3.9 env #or later
+source env/bin/activate
+pip install -r requirements.txt
+```
+
 ## Run the program
 
 To run the program:
