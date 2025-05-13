@@ -27,7 +27,7 @@ python ladas2tei.py  corpus/metadata.csv
 
 ## Preparing the data and the TEI
 
-⚠️ The file names has to follow a specific format: `\w+_\d+.xml`: the program extract the number to organize sequentially the files.
+⚠️ The file names has to follow a specific format: `\w+_\d+.xml`: the program extract the digits to organize sequentially the files.
 
 A basic `<teiHeader>` is provided (`basic_header.txt`) but can be adapted. The metadata of the `<teiHeader>` are retrieved from the `[csv_file].csv` file.
 
