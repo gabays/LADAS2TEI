@@ -25,6 +25,14 @@ To run the example:
 python ladas2tei.py  corpus/metadata.csv
 ```
 
+If you want to add <orig> and <reg> versions for normalizing the text, you can run:
+
+```bash
+python segment.py
+```
+
+Default folder is the `TEI` folder, where all the TEI files produced by LADAS2TEI are stored.
+
 ## Preparing the data and the TEI
 
 ⚠️ The file names has to follow a specific format: `\w+_\d+.xml`: the program extract the digits to organize sequentially the files.
