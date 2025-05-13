@@ -10,11 +10,12 @@ cd LADAS2TEI
 virtualenv -p python3.9 env #or later
 source env/bin/activate
 pip install -r requirements.txt
-``
+```
 
 ## Run the program
 
 To run the program:
+
 ```bash
 python ladas2tei.py [csv_file].csv
 ```
